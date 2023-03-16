@@ -1,3 +1,5 @@
 This is not gibbrish
 
 this is from master branch
+
+this is additional feature very important for other branches
